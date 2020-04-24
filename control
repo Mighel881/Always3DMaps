@@ -1,0 +1,9 @@
+Package: com.imkpatil.always3dmaps
+Name: Always3DMaps
+Depends: mobilesubstrate
+Version: 1.3
+Architecture: iphoneos-arm
+Description: Always turn on 3DMode in Apple Maps!
+Maintainer: Kiran Patil
+Author: Kiran Patil
+Section: Tweaks
